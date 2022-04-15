@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561547238840",
+    "project_id": "macondo-coffee",
+    "storage_bucket": "macondo-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561547238840:android:8838b5d9a09f18f123c34d",
+        "android_client_info": {
+          "package_name": "co.restaurantops.restaurantops_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561547238840-smcj4drusorhuhqi2i4jt211fjdgtifs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMaabHIndCAFUiSNZ-jYnX1ytVMHawEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561547238840-smcj4drusorhuhqi2i4jt211fjdgtifs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
